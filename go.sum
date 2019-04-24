@@ -1,0 +1,8 @@
+github.com/DATA-DOG/go-txdb v0.1.2 h1:Rkgv1GEOrnZhzMDS+DS81QTatJrYGxDpYI3ELIdamZo=
+github.com/DATA-DOG/go-txdb v0.1.2/go.mod h1:aDC9AAfOY+kLbhVTKKXOwkqr2844my+djxj+Ou4wNb4=
+github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d h1:licZJFw2RwpHMqeKTCYkitsPqHNxTmd4SNR5r94FGM8=
+github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d/go.mod h1:asat636LX7Bqt5lYEZ27JNDcqxfjdBQuJ/MM4CN/Lzo=
+github.com/cucumber/gherkin-go v5.1.0+incompatible h1:RCvyVI6KQLI2IJkijZBeJcE4K3U7DnhQ1RjD7VV+AIk=
+github.com/cucumber/gherkin-go v5.1.0+incompatible/go.mod h1:bYJ65F+CDEAL70FXAu7/ef4ayC/NhRXO8zEW3IB21w0=
+github.com/go-sql-driver/mysql v1.4.1 h1:g24URVg0OFbNUTx9qqY1IRZ9D9z3iPyi5zKhQZpNwpA=
+github.com/go-sql-driver/mysql v1.4.1/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=

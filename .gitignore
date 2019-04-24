@@ -3,3 +3,4 @@
 **/vendor/*
 Gopkg.lock
 Gopkg.toml
+.vscode
